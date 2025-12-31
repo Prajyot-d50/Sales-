@@ -16,6 +16,12 @@
 | ⏱ Invoice Lead Time | ~54 Days |
 | ⏱ Order Lead Time | ~53 Days |
 | 🧮 Total Tax Collected | ₹10.1M |
+---
+Dashboard Preview
+<img width="1285" height="727" alt="Screenshot 2025-12-31 143801" src="https://github.com/user-attachments/assets/9c704dd8-dfdd-4e25-8566-959f4c391a17" />
+
+<img width="1288" height="733" alt="Screenshot 2025-12-31 143829" src="https://github.com/user-attachments/assets/531c1fe3-1401-4d40-ad03-dab697c92b9f" />
+
 
 ---
 
