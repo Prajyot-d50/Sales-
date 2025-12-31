@@ -60,7 +60,7 @@
 ---
 
 ## 📌 Author
-*King*  
+Prajyot Dabholkar
 Data Analyst | Power BI | SQL  
 
 📫 Connect with me on GitHub & LinkedIn
