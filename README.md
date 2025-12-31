@@ -1,8 +1,6 @@
 ---
 
-## 📊 Dashboards Included
-- *Sales Register Dashboard*
-- *Order Tracking Dashboard*
+# 📊 Sales Register & Order Tracking Dashboard
 
 ---
 
